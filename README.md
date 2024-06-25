@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=pink&height=180&section=header&text=SeonYoung%20Hwang&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=SeonYoung%20Hwang&fontSize=90)
 
 Hi~ 안녕하세요😊 백엔드 개발자를 꿈꾸는 황선영입니다!
 
@@ -11,4 +11,4 @@ Hi~ 안녕하세요😊 백엔드 개발자를 꿈꾸는 황선영입니다!
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=pink&height=180&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=footer)
